@@ -28,13 +28,14 @@ public class Login {
 	@FindBy (xpath = "//*[@id=\"login\"]/div[3]/form/div/input[12]")
 	WebElement btnLogin;
 	
-	public void Login() throws InterruptedException {
+	public void LoginWeb() throws InterruptedException {
 		
 		btnSignIn.click();
-		txtUserName.sendKeys("chandrayanuar");
-		txtPassword.sendKeys("izanagi1!1");
+		//Change your own username and password
+		txtUserName.sendKeys("own username");
+		txtPassword.sendKeys("own password");
 		btnLogin.click();
-
+		Thread.sleep(4000);
 	}
 	
 }
