@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-04T15:49:02 ICT" name="Default suite" finished-at="2022-02-04T15:49:07 ICT" duration-ms="4953">
+  <suite started-at="2022-02-04T17:07:42 ICT" name="Default suite" finished-at="2022-02-04T17:08:35 ICT" duration-ms="52935">
     <groups>
     </groups>
-    <test started-at="2022-02-04T15:49:02 ICT" name="Default test" finished-at="2022-02-04T15:49:07 ICT" duration-ms="4953">
+    <test started-at="2022-02-04T17:07:42 ICT" name="Default test" finished-at="2022-02-04T17:08:35 ICT" duration-ms="52935">
       <class name="runner.mainApp">
-        <test-method is-config="true" signature="initializeObjects()[pri:0, instance:runner.mainApp@505fc5a4]" started-at="2022-02-04T15:48:58 ICT" name="initializeObjects" finished-at="2022-02-04T15:49:02 ICT" duration-ms="4313" status="PASS">
+        <test-method is-config="true" signature="initializeObjects()[pri:0, instance:runner.mainApp@505fc5a4]" started-at="2022-02-04T17:07:37 ICT" name="initializeObjects" finished-at="2022-02-04T17:07:42 ICT" duration-ms="4774" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeObjects -->
-        <test-method signature="testing()[pri:0, instance:runner.mainApp@505fc5a4]" started-at="2022-02-04T15:49:02 ICT" name="testing" finished-at="2022-02-04T15:49:07 ICT" duration-ms="4885" status="PASS">
+        <test-method signature="testing()[pri:0, instance:runner.mainApp@505fc5a4]" started-at="2022-02-04T17:07:42 ICT" name="testing" finished-at="2022-02-04T17:08:35 ICT" duration-ms="52885" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testing -->
